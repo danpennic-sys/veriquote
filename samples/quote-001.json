@@ -1,0 +1,12 @@
+{
+  "quote_id": "VQ-2026-001",
+  "operator": "Operator Pages Field Demo",
+  "client": "Acme Roofing Co.",
+  "scope": "Roof inspection + gutter clean + photo evidence pack",
+  "line_items": [
+    {"desc": "Roof inspection (drone + ground)", "qty": 1, "unit": 185.00},
+    {"desc": "Gutter clean (linear ft)", "qty": 120, "unit": 2.50},
+    {"desc": "Evidence pack sealing", "qty": 1, "unit": 0.00}
+  ],
+  "notes": "All work performed under local ordinance. Photos hashed and attached as media refs."
+}
